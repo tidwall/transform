@@ -1,5 +1,5 @@
 # Transform
-[![Build Status](https://img.shields.io/travis/tidwall/transform.svg?style=flat-square)](https://travis-ci.org/tidwall/transform)
+
 [![GoDoc](https://img.shields.io/badge/api-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/tidwall/transform)
 
 
